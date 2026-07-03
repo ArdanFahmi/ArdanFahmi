@@ -32,6 +32,15 @@ I'm a dedicated mobile app developer with a passion for building scalable, user-
 
 ---
 
+## ⚒️ Languages · Frameworks · Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,react,typescript,javascript" /><br>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,vscode,postman,android" />
+</div>
+
+---
+
 ## 📱 Featured Projects
 
 Here are some of my most significant projects:
@@ -61,9 +70,7 @@ I'm constantly evolving my skill set:
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdanFahmi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdanFahmi&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArdanFahmi&theme=tokyonight)
 
 ---
 
