@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer specializing in
 
 ## 🚀 About Me
 
-I'm a dedicated mobile app developer with a passion for building scalable, user-centric applications. I believe in writing clean, maintainable code and staying at the forefront of mobile development technologies. My mission is to create seamless mobile experiences that solve real-world problems.
+I'm a dedicated mobile app developer with a passion for building scalable, user-centric applications. I believe in writing clean, maintainable code and staying at the forefront of mobile development technologies.
 
 ---
 
@@ -52,7 +52,7 @@ A comprehensive financial management application built with Flutter, designed to
 A powerful task management application that helps users organize and track their daily tasks with an intuitive interface.
 
 ### 📝 [Todo App](https://github.com/ArdanFahmi/TodoApp)
-A lightweight and efficient todo application showcasing clean architecture principles and modern Flutter development practices.
+A lightweight and efficient todo application built with React Native, showcasing clean architecture principles and modern development practices.
 
 ---
 
@@ -93,9 +93,8 @@ I'm always open to connecting with fellow developers, potential collaborators, a
 
 - **GitHub:** [@ArdanFahmi](https://github.com/ArdanFahmi)
 - **Portfolio:** *(Coming soon)* 🔄
-- **LinkedIn:** *(Your LinkedIn URL)* 🔄
-- **Twitter/X:** *(Your Twitter handle)* 🔄
-- **Email:** *(Your email)* 🔄
+- **LinkedIn:** [Ardan Fahmi](https://id.linkedin.com/in/ardan-fahmi)
+- **Email:** ardanfahmi19@gmail.com
 
 ---
 
